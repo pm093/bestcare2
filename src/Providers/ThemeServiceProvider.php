@@ -1,6 +1,6 @@
 <?php
  
-namespace Theme\Providers;
+namespace bestcare2\Providers;
  
 use IO\Extensions\Functions\Partial;
 use Plenty\Plugin\Events\Dispatcher;
